@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GeekBrains\\С#\\lesson2_s2\\s1_t1\\s1_t1.csproj": {}
+    "C:\\GeekBrains\\С#\\lesson2_s2\\additional_task_deleted2Num\\s1_t1.csproj": {}
   },
   "projects": {
-    "C:\\GeekBrains\\С#\\lesson2_s2\\s1_t1\\s1_t1.csproj": {
+    "C:\\GeekBrains\\С#\\lesson2_s2\\additional_task_deleted2Num\\s1_t1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GeekBrains\\С#\\lesson2_s2\\s1_t1\\s1_t1.csproj",
+        "projectUniqueName": "C:\\GeekBrains\\С#\\lesson2_s2\\additional_task_deleted2Num\\s1_t1.csproj",
         "projectName": "s1_t1",
-        "projectPath": "C:\\GeekBrains\\С#\\lesson2_s2\\s1_t1\\s1_t1.csproj",
+        "projectPath": "C:\\GeekBrains\\С#\\lesson2_s2\\additional_task_deleted2Num\\s1_t1.csproj",
         "packagesPath": "C:\\Users\\piro\\.nuget\\packages\\",
-        "outputPath": "C:\\GeekBrains\\С#\\lesson2_s2\\s1_t1\\obj\\",
+        "outputPath": "C:\\GeekBrains\\С#\\lesson2_s2\\additional_task_deleted2Num\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\piro\\AppData\\Roaming\\NuGet\\NuGet.Config"
