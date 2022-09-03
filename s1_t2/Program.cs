@@ -1,18 +1,22 @@
-﻿
-int number2 = int.Parse(Console.ReadLine());
-int ost = 0;
-if (number2%number1 == 0)
-{   
-    
-    Console.Write(number2+",");
-    Console.Write(number1+"->");
-    Console.Write("кратно");
-}
-else int number1 = int.Parse(Console.ReadLine());
+﻿void secondNum ()
 {
-    Console.Write(number2+",");
-    Console.Write(number1+"->не кратно. остаток ");
-    ost = number2%number1;
-    Console.WriteLine(ost);
+try
+{
+    Console.Write("введите-Ка трехзначное число ");
+    int number = int.Parse(Console.ReadLine());
+    if (number-100 > 0&&number-1000 < 0)
+    {
+        Console.WriteLine("вторая цифра- "+((number / 10) % 10));
+    }
+    else 
+    {
+        Console.Write("кажется мы друг друга недопоняли");
+    }
+}
+catch
+{
+    Console.Write("кажется мы друг друга недопоняли");
+}
 }
 
+secondNum();
