@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GeekBrains\\С#\\lesson2_s2\\lesson2_newInt\\lesson2_newInt.csproj",
+      "projectUniqueName": "C:\\GeekBrains\\С#\\lesson2_s2\\adit_task_robot\\lesson2_newInt.csproj",
       "projectName": "lesson2_newInt",
-      "projectPath": "C:\\GeekBrains\\С#\\lesson2_s2\\lesson2_newInt\\lesson2_newInt.csproj",
+      "projectPath": "C:\\GeekBrains\\С#\\lesson2_s2\\adit_task_robot\\lesson2_newInt.csproj",
       "packagesPath": "C:\\Users\\piro\\.nuget\\packages\\",
-      "outputPath": "C:\\GeekBrains\\С#\\lesson2_s2\\lesson2_newInt\\obj\\",
+      "outputPath": "C:\\GeekBrains\\С#\\lesson2_s2\\adit_task_robot\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\piro\\AppData\\Roaming\\NuGet\\NuGet.Config"
